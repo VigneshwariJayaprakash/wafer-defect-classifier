@@ -1,7 +1,6 @@
 # Wafer Defect Pattern Classification
 ### CNN Feature Extractor + XGBoost/RF Ensemble · WM-811K Dataset · FastAPI Serving
 
-> Built as a proof-of-work for Intel's WLA Yield Analysis Systems Engineer role.  
 > **Author:** Vigneshwari Jayaprakash · [vjayapr1@asu.edu](mailto:vjayapr1@asu.edu) · [Portfolio](https://vigneshwarijayaprakash.github.io)
 
 ---
