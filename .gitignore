@@ -1,0 +1,10 @@
+data/
+models/*.pt
+models/*.pkl
+models/*.json
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+.DS_Store
